@@ -1,4 +1,4 @@
-bottles = 10
+bottles = 20
 
 while bottles > 0:
     print(bottles, "green bottles hanging on the wall,")
@@ -7,5 +7,6 @@ while bottles > 0:
     print("they'll be", bottles-1, "green bottles hanging on the wall.")
     print()
     bottles = bottles - 1
+
 
 print('All gone')
